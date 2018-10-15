@@ -1,6 +1,6 @@
 [submodule "ome-common-java"]
 	path = ome-common-java
-	url = https://github.com/ome/ome-common-java.git
+	url = https://github.com/manics/ome-common-java.git
 	branch = master
 [submodule "ome-model"]
 	path = ome-model
@@ -32,7 +32,7 @@
 	branch = master
 [submodule "bioformats"]
 	path = bioformats
-	url = https://github.com/openmicroscopy/bioformats.git
+	url = https://github.com/manics/bioformats.git
 	branch = develop
 [submodule "bio-formats-documentation"]
 	path = bio-formats-documentation
