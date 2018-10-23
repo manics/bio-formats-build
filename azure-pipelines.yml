@@ -26,5 +26,5 @@ steps:
     publishJUnitResults: false
     testResultsFiles: '**/TEST-*.xml'
     goals: 'package'
-   env:
+  env:
     PATH: '/home/vsts/.local/bin:/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin:/usr/local/sbin'
